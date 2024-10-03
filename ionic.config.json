@@ -1,0 +1,7 @@
+{
+  "name": "tp2_ionic_vuejs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
